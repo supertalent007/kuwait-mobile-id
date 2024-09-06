@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115522320352",
+    "project_id": "quantumotp",
+    "storage_bucket": "quantumotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115522320352:android:5bc4ca2b812f8dab97dd85",
+        "android_client_info": {
+          "package_name": "com.example.mobileid_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX9qJxJfwHEmco5SCpuSwbqz_A3v5RXs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115522320352:android:4bf9722a4a2afdd297dd85",
+        "android_client_info": {
+          "package_name": "com.example.sahel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX9qJxJfwHEmco5SCpuSwbqz_A3v5RXs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
